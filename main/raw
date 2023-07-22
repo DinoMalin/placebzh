@@ -1,0 +1,15 @@
+{
+  "contact": "DinoMalin",
+  "templates": [
+    {
+      "name": "Gwen Ha Du",
+      "sources": [
+        "https://imgur.com/OOxMV3N"
+      ],
+      "x": 907,
+      "y": 480
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
